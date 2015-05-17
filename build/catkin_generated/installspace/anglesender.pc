@@ -1,0 +1,8 @@
+prefix=/home/shubh/ws/install
+
+Name: anglesender
+Description: Description of anglesender
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/shubh/ws/install/lib -lcontrols
+Requires: roscpp std_msgs
